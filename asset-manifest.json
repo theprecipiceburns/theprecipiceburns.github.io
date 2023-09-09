@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/theprecipiceburns.github.io/theprecipiceburns/static/css/main.073c9b0a.css",
-    "main.js": "/theprecipiceburns.github.io/theprecipiceburns/static/js/main.8bc4a928.js",
-    "index.html": "/theprecipiceburns.github.io/theprecipiceburns/index.html",
-    "main.073c9b0a.css.map": "/theprecipiceburns.github.io/theprecipiceburns/static/css/main.073c9b0a.css.map",
-    "main.8bc4a928.js.map": "/theprecipiceburns.github.io/theprecipiceburns/static/js/main.8bc4a928.js.map"
+    "main.css": "/theprecipiceburns/static/css/main.073c9b0a.css",
+    "main.js": "/theprecipiceburns/static/js/main.f2e06cd7.js",
+    "index.html": "/theprecipiceburns/index.html",
+    "main.073c9b0a.css.map": "/theprecipiceburns/static/css/main.073c9b0a.css.map",
+    "main.f2e06cd7.js.map": "/theprecipiceburns/static/js/main.f2e06cd7.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8bc4a928.js"
+    "static/js/main.f2e06cd7.js"
   ]
 }
